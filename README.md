@@ -4,22 +4,22 @@
 
 ## Exercice 1: Hello, World!
 
-* **q1**
+* **Ouvrir un terminal puis taper dans votre terminal la commande suivante (le $ représente l’invite de commande, en anglais, le prompt, et il ne faut pas le taper) :**
 
 ![image](https://user-images.githubusercontent.com/91763346/205301787-bc50ba50-2861-4af3-bb35-eaa919a280a8.png)
 
 
-* **q2**
+* **Entrer la commande**
 
 ![image](https://user-images.githubusercontent.com/91763346/205301873-93409e7f-01e3-4eb7-b8d8-c721f895fa3e.png)
 
 
-* **q3**
+* **Entrer les commandes**
 
 ![image](https://user-images.githubusercontent.com/91763346/205301948-b3773e97-43bb-4728-b210-2cf19d7a9cc0.png)
 
 
-* **q4** 
+* **Vous allez maintenant créer votre premier script shell. Placez-vous dans votre répertoire personnel en tapant cd puis entrée puis entrez la commande** 
 
 ![image](https://user-images.githubusercontent.com/91763346/205302400-eb8a1e09-c20c-417c-8d99-81bec6564552.png)
 
@@ -50,14 +50,14 @@ dans le répertoire ~/shell/tp5 dont la sortie ressemble à la suivante :
 
 ## Exercice 3: Paramètres positionnels des scripts ( **Bash Scripting Arguments** )
 
-* **q1**
+* **Dans le répertoire ~/shell/tp5, saisir, enregistrer, et rendre exécutable le script param_pos suivant**
 
 ![image](https://user-images.githubusercontent.com/91763346/205305107-c48ae39a-167f-4224-8583-2108f0b23a56.png)
 
 ![image](https://user-images.githubusercontent.com/91763346/205305274-1849d57a-45fa-4142-a615-3875b2fa925a.png)
 
 
-* **q2**
+* **Entrer les commandes suivantes.**
 
 ```
 ./param_pos 45 aze oi
@@ -128,7 +128,7 @@ $ ./params {2..20}
 
 
 
-* **q3**
+* **Faire le bilan.**
 
 
 
