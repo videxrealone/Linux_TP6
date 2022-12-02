@@ -130,6 +130,24 @@ $ ./params {2..20}
 
 * **Faire le bilan.**
 
+**Interprétations:**
+
+On peut interpréter que les scripts bash avec parametres peuvent utiliser un nombre infini de paramètres.
+
+Les scripts peuvent avoir aucun paramètre et il peut fonctionner d'une manière normale.
+
+Les paramètres seront automatiquement "sanitized" comme le cas du "**L/'utilisateur**".
+
+Un paramètre sous la forme "arg1arg2arg2" compte comme un seul paramètre.
+
+Un paramètre avec une variable prédéfinis comme $USER compte comme un argument aussi.
+
+cd - peut alterner entre le directory précédent et le directory actuel comme illustré dans le README.md
+
+On peut utiliser des intervales dans les scripts bash.
+
+
+
 
 
 
